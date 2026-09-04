@@ -9,3 +9,4 @@ public class PersonalFinanceManagerApplication {
         SpringApplication.run(PersonalFinanceManagerApplication.class, args);
     }
 }
+
