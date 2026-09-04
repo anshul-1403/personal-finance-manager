@@ -156,3 +156,4 @@ To execute E2E tests:
    ./financial_manager_tests.sh
    ```
 - **Scenario Pass Rate**: **86/86 (100% Success)**
+
